@@ -18,6 +18,10 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   rspec (~> 3.4)
+
+BUNDLED WITH
+   1.11.2
